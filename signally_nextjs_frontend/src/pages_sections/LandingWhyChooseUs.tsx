@@ -10,7 +10,7 @@ export default function LandingWhyChooseUs() {
             What makes KBLE <span className='text-brand-yellow'>different?</span> <br />{' '}
           </Text>
 
-          <Text className='mb-8 text-lg font-semibold text-left'>
+          <Text className='mb-8 max-w-lg text-left'>
           At KBLE, we take a holistic approach to trading that goes beyond just executing trades. 
             <br></br>
             <Text>Our team of experienced professionals works on a customized trading plan that takes into account their individual risk tolerance, financial goals, and market analysis</Text>
