@@ -15,23 +15,5 @@ export const terms = [
    <p>You agree that you will not modify, adapt, translate, prepare derivative works from, decompile, reverse engineer or disassemble the KBLE Application or otherwise attempt to derive source code from the KBLE Application.</p>
    <p>KBLE reserves the right to cancel the users subscription and remove and or suspend the user’s account if there are any conclusions that terms of use has been violated. </p>
     `
-  },
-  {
-    id: '3',
-    title: 'SALES POLICY',
-    description: `<p>All sales are final. All subscriptions will automatically renew. The subscriber may unsubscribe at any time to prevent future billings.</p>
-    `
-  },
-  {
-    id: '4',
-    title: 'REFUND/CANCELLATION POLICY',
-    description: `<p>There are to be no full or partial refunds given for the service as soon as the first payment is made. However, the subscriber may cancel their subscription at any time. </p>
-    `
-  },
-  {
-    id: '5',
-    title: 'ACCOUNT AND/OR E-MAIL REMOVAL',
-    description: `<p>f you'd like to have your account and or e-mail address fully removed aside of the subscription being cancelled, please write to us at support@signally.com Then, your account and/or e-mail address will be fully removed from our systems. </p>
-      `
   }
 ];
