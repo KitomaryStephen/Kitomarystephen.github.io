@@ -54,7 +54,7 @@ export default function SignInForm() {
   return (
     <Box className='xs:w-full sm:w-[500px] py-10 px-6 rounded-md'>
       <Box className='flex flex-col text-center w-full mx-auto '>
-        <Text className='mt-4 text-2xl font-bold'>Signally account login</Text>
+        <Text className='mt-4 text-2xl font-bold'>KBLE MEMBER SIGN IN</Text>
       </Box>
 
       <Box className='mt-8 flex flex-col items-center'>
