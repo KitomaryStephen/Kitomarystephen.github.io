@@ -22,7 +22,7 @@ export const privacyPolicy = [
   {
     id: '3',
     title: 'Use of your Personal Information',
-    description: `<p>Signally collects and uses your personal information to operate its website(s) and deliver the services you have requested.
+    description: `<p> collects and uses your personal information to operate its website(s) and deliver the services you have requested.
     Signally may also use your personally identifiable information to inform you of other products or services available from Signally and its affiliates.
     Sharing Information with Third Parties
     Signally does not sell, rent or lease its customer lists to third parties.
