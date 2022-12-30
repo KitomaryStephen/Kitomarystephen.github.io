@@ -56,7 +56,7 @@ export default function ResetPasswordForm() {
   return (
     <Box className='xs:w-full sm:w-[500px] py-10 px-6 rounded-md'>
       <Box className='flex flex-col text-center w-full mx-auto '>
-        <Text className='mt-4'>Reset your Signally password</Text>
+        <Text className='mt-4'>Reset your password</Text>
       </Box>
 
       <Box className='mt-8 flex flex-col items-center'>

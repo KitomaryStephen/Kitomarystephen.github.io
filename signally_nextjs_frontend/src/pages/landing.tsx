@@ -9,7 +9,7 @@ import LandinWhyChooseUs from '../pages_sections/LandingWhyChooseUs';
 
 export default function LandingPage() {
   return (
-    <Page title='Landing'>
+    <Page title=''>
       <LandingHero />
       <LandingCallToAction />
       <LandinWhyChooseUs />

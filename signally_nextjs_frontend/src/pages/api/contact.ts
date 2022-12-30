@@ -37,7 +37,7 @@ async function sendMail(emailAddresses: string[], mailBody: string, subject: str
   });
 
   const mailOptions = {
-    from: `Contact alert for Signally <${process.env.SMTP_EMAIL}>`,
+    from: `Contact alert for KBLE<${process.env.SMTP_EMAIL}>`,
     to: `${emailAddresses}`,
     subject: `${subject}`,
     html: `${mailBody}`
